@@ -4,6 +4,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 8px;
 }
 
 .logo {
@@ -12,7 +13,6 @@
   color: tomato;
   background: white;
   padding: 8px 32px;
-  margin: 8px;
 }
 
 ul {
@@ -26,7 +26,8 @@ ul {
 a {
   font-size: 22px;
   background: white;
-  padding: 8px;
+  margin: 0;
+  padding: 0;
   /* this removes the line under the links */
   text-decoration: none;
 }
